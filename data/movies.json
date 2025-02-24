@@ -1,0 +1,55 @@
+[
+    {
+      "id": "Kalki",
+      "name": "Kalki",
+      "image": "movie1.jpg",
+      "songs": [
+        {
+          "title": "Ta Takkara",
+          "path": "movie1-song1.mp3"
+        }
+      ]
+    },
+    {
+      "id": "RadheShyam",
+      "name": "RadheShyam",
+      "image": "movie2.jpg",
+      "songs": [
+        {
+          "title": "Nagumomu Tharalae",
+          "path": "movie2-song1.mp3"
+        },
+        {
+            "title": "Ee Raathalae",
+            "path" : "movie2-song2.mp3"
+        }
+      ]
+    },
+    {
+        "id" : "Pushpa - The Rise",
+        "name" : "Pushpa - The Rise",
+        "image" : "movie3.jpg",
+        "songs" : [
+            {
+                "title" : "Srivalli",
+                "path" : "movie3-song2.mp3"
+            },
+            {
+                "title" : "Ooo Antaava",
+                "path" : "movie3-song1.mp3"
+            }
+        ]
+    },
+    {
+        "id" : "Devara",
+        "name" : "Devara",
+        "image" : "movie5.jpg",
+        "songs" : [
+            {
+                "title" : "Fear Song",
+                "path" : "movie5-song1.mp3"
+            }
+        ]
+    }
+]
+  
