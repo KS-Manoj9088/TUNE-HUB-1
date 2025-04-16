@@ -104,3 +104,8 @@ button:hover {
     background: linear-gradient(135deg, #ff5733, #ff6b45);
     transform: scale(1.05);
 }
+
+h1{
+    color : black;
+    font-size : 100px;
+}
